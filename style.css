@@ -1,3 +1,4 @@
+/* ---fonts---- */
 @import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@400;500;700&display=swap");
 
 .txt-roboto {
@@ -8,6 +9,7 @@
     font-family: 'Bebas Neue', cursive;
 }
 
+/* ---btn gradient color--- */
 .btncolor {
     background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
     border-radius: 10px;
